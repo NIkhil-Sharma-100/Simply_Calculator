@@ -5,7 +5,17 @@
 
 ## Features
 - Uses *sympy* library
-- take standard input
+- Handle any type of exception
+- Looped fro continuos intraction with user
+- Takes standard input(*Same as powershell*)
 
-# Example
-user
+# Main Idea
+- Usinng *sympy* library
+
+# Example .1
+user = 33+43
+result = 76
+
+# Example .2
+user =  33/5+2
+result = 8.6
