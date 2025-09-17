@@ -10,7 +10,7 @@
 - Takes standard input(*Same as powershell*)
 
 # Main Idea
-- Usinng *sympy* library
+- Using *sympy* library
 
 # Example .1
 user = 33+43
